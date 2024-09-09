@@ -1,6 +1,6 @@
 ## Hi I'm Monica 👋 
 
-I'm a frontend focused engineer who enjoys creating intuitive interfaces. I'm looking to work on projects that will create a positive social impact. 
+I'm a frontend focused software engineer who enjoys creating intuitive interfaces. I'm looking to work on projects that will create a positive social impact. 
 <br></br>
 
 #### About Me
