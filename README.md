@@ -5,7 +5,7 @@ I'm a frontend focused software engineer who enjoys creating intuitive interface
 
 #### About Me
 
-- 🎨 I’m currently working on building a journaling application 
+- 🎨 I’m currently working on building a journaling and mood tracking application 
 - 🌱 I enjoy looking after my many plants and hanging out with my cat Chibi Mochi 
 - 🧶 I'm frequently learning about various crafts, trying out new cooking techniques or reading (my favorite genres are history and psychology)
 - 📫 How to reach me: 2011mkornis@gmail.com
